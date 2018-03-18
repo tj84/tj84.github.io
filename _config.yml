@@ -18,7 +18,7 @@ rss: rss
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
-
+google_analytics: UA-115015116-1
 # Mastodon instances
 # mastodon:
 # - username: jekyll
